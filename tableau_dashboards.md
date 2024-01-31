@@ -1,9 +1,0 @@
-See my [simple tableau dashboard 1](https://public.tableau.com/app/profile/ramon.jonelle.parafina/viz/ShopDashboard_17016763225000/Dashboard1?publish=yes) for more details.
-
-See my [simple tableau dashboard 2](https://public.tableau.com/app/profile/ramon.jonelle.parafina/viz/ShopDashboard_17016763225000/Dashboard2?publish=yes) for more details.
-
-See my [simple tableau dashboard 3](https://public.tableau.com/app/profile/ramon.jonelle.parafina/viz/ShopDashboard_17016763225000/Dashboard3?publish=yes) for more details.
-
-See my [simple tableau dashboard 4](https://public.tableau.com/app/profile/ramon.jonelle.parafina/viz/ShopDashboard_17016763225000/Dashboard4?publish=yes) for more details.
-
-See my [simple tableau dashboard 5](https://public.tableau.com/app/profile/ramon.jonelle.parafina/viz/ShopDashboard_17016763225000/Dashboard5?publish=yes) for more details.
